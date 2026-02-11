@@ -3,7 +3,7 @@
 **AI/ML + Software Engineering Enthusiast**<br>
 📍 Greater Noida, India | 📞 +91-8595126184 | ✉️ divyanshucloud@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/) [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white)](https://github.com/) [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white)](https://leetcode.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([https://www.linkedin.com/in/divyanshu-tiwari-43151a20b/]) [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white)]([https://github.com/Divyanshu8595]) [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/divyanshucloud/)
 
 ---
 
