@@ -1,80 +1,54 @@
-# Divyanshu Tiwari
+# Personal Portfolio Website
 
-**AI/ML + Software Engineering Enthusiast**<br>
-📍 Greater Noida, India | 📞 +91-8595126184 | ✉️ divyanshucloud@gmail.com
+**Live site:** [divyanshu8595.github.io](https://divyanshu8595.github.io)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([https://www.linkedin.com/in/divyanshu-tiwari-43151a20b/]) [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white)]([https://github.com/Divyanshu8595]) [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/divyanshucloud/)
+This repository contains the source code for my personal portfolio website. It showcases my projects, skills, and experience in AI/ML and software engineering.
 
----
+## Screenshots
 
-## Summary
-Aspiring software engineer focused on building practical products using **Flutter, Python, ML, and Firebase**. I enjoy solving real-world problems across mobile development, data workflows, and AI-driven features.
+> *Add one or more screenshots or GIFs of the live site here. This helps people get a quick look at the UI.*
 
----
+## Built With
 
-## Technical Skills
-- **Languages:** Python, Java, SQL, Dart
-- **Data/ML:** Pandas, NumPy, Scikit-learn, TensorFlow
-- **Databases:** MySQL, Neo4j, Firebase
-- **Tools/Platforms:** Flutter, Firebase, Jupyter Notebook
-- **Core CS:** DSA, OOP, DBMS, Operating Systems
+- **HTML5** – structure and semantic markup
+- **CSS3** – styling and layout
+- **JavaScript** – interactive behaviour
+- **Bootstrap** – responsive design framework (if used)
+- **GitHub Pages** – hosting platform
 
----
+## Getting Started
 
-## Experience
-### AI/ML Intern — Agivant Technologies
-- Built Python analytics pipelines (Pandas, NumPy) for large structured and unstructured datasets.
-- Automated Neo4j query workflows and integrated LLM-based entity extraction for insight generation.
+To view the site locally:
 
----
+```bash
+# Clone the repository
+$ git clone https://github.com/Divyanshu8595/divyanshu.github.io.git
+$ cd divyanshu.github.io
 
-## Projects
-### Aunty Scanner — Hyperlocal Food Discovery Platform
-- Developed a location-based food discovery app with payments.
-- **Tech Stack:** Flutter, Firebase.
+# Open index.html in your browser
+```
 
-### Khethari — AI-Driven Farmer Support Platform
-- Built an ML-enabled mobile app for leaf disease detection and crop decision support.
-- **Tech Stack:** Python, ML, Flutter, Firebase, Gemini API.
+Since this is a static site, no build step is required. Simply open `index.html` in your browser.
 
----
+## Deploying
 
-## Leadership & Community
-### Campus Lead — Google Developer Group (GDG), GNIOT *(Sep 2024 – Sep 2025)*
-- Selected from **500+ applicants** to establish and lead the campus chapter.
-- Organized **10+ technical workshops/events**.
+This site is deployed via **GitHub Pages**. To deploy your own changes:
 
-### Organizer — Kotlin User Group (KUG), Gurugram *(Jan 2025 – Present)*
-- Co-organized **5+ city-level technical meetups** with Google and JetBrains.
-- Facilitated peer learning and industry knowledge exchange.
+1. Push changes to the `main` branch.
+2. Go to **Settings → Pages** and make sure the source is set to the `main` branch (root).
+3. GitHub will automatically rebuild and publish the site at `https://<username>.github.io`.
 
----
+More details can be found in [GitHub Pages documentation](https://docs.github.com/en/pages).
 
-## Achievements
-- **Semifinalist** — Microsoft Imagine Cup 2024
-- Selected for **Google Solution Challenge 2024 Bootcamp**
-- Shortlisted — Google India Student Launchpad Program 2025
-- Solved **200+ DSA problems** on HackerEarth
+## Contributing
+
+Feel free to fork this repository and open pull requests if you have suggestions for improvements. You can also open issues to report bugs or request new features.
+
+## Contact
+
+- **Email:** [divyanshucloud@gmail.com](mailto:divyanshucloud@gmail.com)
+- **LinkedIn:** [linkedin.com/in/divyanshu-tiwari](https://www.linkedin.com/in/divyanshu-tiwari)
 
 ---
 
-## Certifications
-- Google Machine Learning Crash Course
-- Generative AI Fundamentals — Google
-- Discover Data Analysis
-
----
-
-## Education
-**Bachelor of Technology (B.Tech), Computer Science & Engineering**<br>
-Greater Noida Institute of Technology (GNIOT), Greater Noida<br>
-Expected Graduation: Aug 2026<br>
-Merit Scholarship: **100% Tuition Fee Waiver**
-
----
-
-## Open To
-Internships and collaboration opportunities in:
-- Software Engineering
-- AI/ML Product Development
-- Developer Community Initiatives
+*This project README aims to present the portfolio website as a polished, standalone project. For my personal resume and a detailed overview of my skills and experience, please see my profile README on GitHub.*
